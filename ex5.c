@@ -1,6 +1,6 @@
 /******************
 Name:ido naor
-ID: 212499339
+
 Assignment: ex5
 *******************/
 #include <stdio.h>
